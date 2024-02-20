@@ -1,0 +1,15 @@
+Question for if-else 
+
+1.What is the purpose of the 'if' statement in Java?
+2.What is the syntax of the 'if' statement in Java?
+3.What is the purpose of the 'else' statement in Java?
+4.What is the syntax of the 'if-else' statement in Java?
+5.What is the purpose of the 'else if' statement in Java?
+6.What is the syntax of the 'else if' statement in Java?
+
+
+
+
+
+
+

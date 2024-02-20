@@ -1,0 +1,11 @@
+Question for Loops 
+
+1. What is loops ?
+2. What is type of loops ?
+3. What is 'for loop' and its Syntax ?
+4. What is 'do while loop' and its syntax?
+5. What is 'while loop' and its syntax?
+6. What is difference between 'do while' and 'while loop' ?
+7. What is break statement ?
+8. What is continue statement ?
+9. what is difference between break and continue statement?

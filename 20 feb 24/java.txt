@@ -1,0 +1,14 @@
+Questions for Java
+
+1. What is Java ?
+2. Why Java called platform independant language ?
+3. java is object oriented language or not ?
+4.Explain JVM, JRE, and JDK?
+5. What id static data & dynamic data ?
+6. Types of application ?
+7. Is java statically typed or dynamically typed language ?
+8. What is variable ?
+9. What is syntax for right a variable ?
+10.What is difference between print and println ? 
+11. What is standard for declaring class ?
+12 .What is standard for declaring variable ?

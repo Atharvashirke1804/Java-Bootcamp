@@ -1,0 +1,13 @@
+Questions For Datatypes 
+
+1. What is data type ?
+2.What are primitive data types in Java?
+3. What is size of byte in byte and bits?
+4. What is size of short in byte and bits?
+5. What is size of int in byte and bits?
+6. What is size of long in byte and bits?
+7. What is size of float in byte and bits?
+8. What is size of double in byte and bits?
+9. What is size of char in byte and bits?
+10. What is size of boolean in byte and bits?
+11.What is the difference between float and double data types?

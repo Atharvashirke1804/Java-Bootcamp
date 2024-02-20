@@ -1,0 +1,13 @@
+Queastion for operator 
+
+1. What is operator ?
+2.What is types of operator ?
+3.What is Arithmetic operators in Java?
+4. What is Ternary operator in Java ?
+5.  What are the types of arithmetic operators?
+6. What are Logical operators in Java?
+7.What is the short-circuit logical AND operator (&&) in Java?
+8. What is Increment operator ? 
+9. What is decrement operator ?
+10.What is the difference between ++i and i++ in Java?
+11.What is the difference between --i and i-- in Java?
